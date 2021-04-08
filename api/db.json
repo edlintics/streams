@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "stream 1",
+      "description": "sasd",
+      "id": 15
+    },
+    {
+      "title": "I creatde this stream",
+      "description": "this is my stream",
+      "userId": "103506913141746984333",
+      "id": 16
+    },
+    {
+      "title": "Programatic navigation",
+      "description": "refactoring",
+      "id": 18
+    },
+    {
+      "title": "New stream component reuse",
+      "description": "Refactored",
+      "userId": "103506913141746984333",
+      "id": 19
+    }
+  ]
+}
